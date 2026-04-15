@@ -1,33 +1,25 @@
-# Oricutron with Clipboard Support (F11/F12)
+# Oricutron - AppImage Autonome
 
-This is a patched version of Oricutron 1.2 with **working clipboard copy/paste (F11/F12) for Linux**.
+Oricutron 1.2 avec support du presse-papier (F11/F12).
 
-## Download
+## Téléchargement
 
-⬇️ **[Download the AppImage](Oricutron-1.2-clipboard-x86_64.AppImage)**
+"⬇️"**[Oricutron-1.2-clipboard-x86_64.AppImage](Oricutron-1.2-clipboard-x86_64.AppImage)**
 
-## Usage
-
-```bash
-chmod +x Oricutron-1.2-clipboard-x86_64.AppImage
-./Oricutron-1.2-clipboard-x86_64.AppImage
-
-
-pi@asus-36:~/Téléchargements/oric/oricutron-clipboard-release$ # Créer le README
-cat > README.md << 'EOF'
-# Oricutron with Clipboard Support (F11/F12)
-
-This is a patched version of Oricutron 1.2 with **working clipboard copy/paste (F11/F12) for Linux**.
-
-## Download
-
-⬇ **[Download the AppImage](Oricutron-1.2-clipboard-x86_64.AppImage)**
-
-## Usage
+## Utilisation
 
 ```bash
 chmod +x Oricutron-1.2-clipboard-x86_64.AppImage
 ./Oricutron-1.2-clipboard-x86_64.AppImage
-> 
+```
 
-eof
+## Contenu
+
+- ✅ Oricutron patché (F11/F12 fonctionnel)
+- ✅ Version autonome : SDL2 et GTK+3 intégrées
+- ✅ Aucune dépendance à installer
+
+## Liens
+
+- [Code source patché](https://github.com/QSDDS/oricutron-patched)
+- [Issue officielle](https://github.com/pete-gordon/oricutron/issues/213)
