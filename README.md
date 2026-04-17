@@ -17,8 +17,9 @@ chmod +x Oricutron-1.2-clipboard-x86_64.AppImage
 ## Contenu
 
 - ✅ Oricutron patché (F11/F12 fonctionnel)
-in progress... - ✅ Version autonome : SDL2 et GTK+3 intégrées
-in progress... - ✅ Aucune dépendance à installer
+- in progress... - ✅ Version autonome : SDL2 et GTK+3 intégrées
+- in progress... - ✅ Aucune dépendance à installer
+
 
 ## Liens
 
