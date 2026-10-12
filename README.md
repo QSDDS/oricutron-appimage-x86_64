@@ -2,7 +2,7 @@ I.A. deepseek + moi
 # Oricutron - AppImage Autonome
 
 Oricutron 1.2 avec support du presse-papier (F11 (copie le contenu de l'écran)/F12).
-
+F11 (copie le contenu de l'écran) ==> pas grand intérêt, faire l'appimage version listing
 ## Téléchargement
 
 "⬇️"**[Oricutron-1.2-clipboard-x86_64.AppImage](Oricutron-1.2-clipboard-x86_64.AppImage)**
